@@ -13,7 +13,7 @@ Train the Model
 Run Detection on Test Images
 Results
 Acknowledgements
-# Requirements
+Requirements
 Python 3.x
 Google Colab (recommended) or a local machine with GPU support
 A labeled dataset of road images stored in Google Drive
